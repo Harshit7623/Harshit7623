@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and DSA
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me :
-- Email : harshit312502gmail.com
+- Email : harshit31250gmail.com
 - Linked In : https://www.linkedin.com/in/harshit-tiwari-3139b5328/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
