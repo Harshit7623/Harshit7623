@@ -2,10 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Enthusiast;Python+%7C+FastAPI+%7C+AI%2FML;Building+Scalable+Web+Applications)](https://github.com/Harshit7623)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+from+Gwalior+%F0%9F%87%AE%F0%9F%87%B3;NASA+Space+Apps+Challenge+Participant+%F0%9F%9A%80;220%2B+Contributions+This+Year+%F0%9F%94%A5;Python+%7C+TypeScript+%7C+React+%7C+Flask;Building+Real-World+Solutions)](https://github.com/Harshit7623)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Harshit7623&color=blueviolet&style=flat-square)](https://github.com/Harshit7623)
 [![GitHub followers](https://img.shields.io/github/followers/Harshit7623?label=Follow&style=social)](https://github.com/Harshit7623)
+![GitHub User's stars](https://img.shields.io/github/stars/Harshit7623?style=social)
 
 </div>
 
@@ -13,12 +14,31 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on **Full Stack Development & AI Projects**
-- 🌱 I'm currently learning **JavaScript, DSA & Advanced React**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, JavaScript, React, FastAPI**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *I love turning coffee into code!*
+```typescript
+const harshit = {
+    location: "Gwalior, India 🇮🇳",
+    currentFocus: "Building SeatWise - Intelligent Exam Seating System",
+    achievements: [
+        "🏆 Pull Shark x2 - Active Open Source Contributor",
+        "🚀 NASA Space Apps 2025 Participant (Galactic Gallery)",
+        "🗳️ GDG Hackathon 2024 - Voter Verification System"
+    ],
+    techStack: {
+        languages: ["Python", "TypeScript", "JavaScript"],
+        frontend: ["React", "Vite", "TailwindCSS", "Framer Motion"],
+        backend: ["Flask", "Node.js", "Express", "Firebase"],
+        databases: ["SQLite", "Firestore", "SQLAlchemy"],
+        tools: ["Git", "Scapy", "Socket.IO", "JWT"]
+    },
+    currentlyLearning: ["DSA", "Advanced React Patterns", "System Design"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
+
+- 🔭 Currently building **[SeatWise](https://github.com/TANISHX1/seat-allocation-sys)** - 28,000+ LOC exam seating system with Flask + React
+- 🌱 Learning **DSA, Advanced React & System Design**
+- 🤝 Open to collaborate on **Full Stack & Security Projects**
+- 📍 Based in **Gwalior, India**
 
 ---
 
@@ -63,9 +83,10 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### 🔧 Backend & APIs
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,9 +96,9 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -87,15 +108,17 @@
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🔧 Tech Stack |
-|------------|----------------|---------------|
-| [**Project 1**](https://github.com/Harshit7623/project1) | A brief description of your awesome project | `Python` `FastAPI` `React` |
-| [**Project 2**](https://github.com/Harshit7623/project2) | Another amazing project showcase | `JavaScript` `Node.js` `MongoDB` |
-| [**Project 3**](https://github.com/Harshit7623/project3) | Your third highlighted project | `React` `TailwindCSS` `Docker` |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TANISHX1&repo=seat-allocation-sys&theme=radical&hide_border=true)](https://github.com/TANISHX1/seat-allocation-sys)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit7623&repo=Galactic_Gallery&theme=radical&hide_border=true)](https://github.com/Harshit7623/Galactic_Gallery)
 
 </div>
 
-> 💡 *Replace the project links and descriptions with your actual repositories!*
+| 🚀 Project | 📝 Description | 🔧 Tech Stack | 📊 Stats |
+|:-----------|:---------------|:--------------|:---------|
+| **[🎓 SeatWise](https://github.com/TANISHX1/seat-allocation-sys)** | Intelligent exam seating system with smart algorithms ensuring academic integrity. Features JWT auth, PDF generation & real-time visualization | `Python` `Flask` `React` `SQLite` | **28K+ LOC** |
+| **[🌌 Galactic Gallery](https://github.com/Harshit7623/Galactic_Gallery)** | NASA Space Apps 2025 - High-performance app for exploring gigapixel lunar maps with seamless zoom/pan | `TypeScript` `React` `Vite` `TailwindCSS` | **NASA Challenge** |
+| **[🗳️ Voter Verification](https://github.com/Harshit7623/Modern_voting_verification)** | GDG Hackathon 2024 - Secure voter ID verification with OTP, Firebase Auth & JWT | `JavaScript` `Node.js` `Firebase` `Express` | **[Live Demo](https://gdg-hackathon-one.vercel.app)** |
+| **[🔍 PacketPeeper](https://github.com/Harshit7623/Packet_Peeper)** | Real-time network packet sniffer with protocol analysis, WebSocket updates & React dashboard | `Python` `Flask` `React` `Scapy` `Socket.IO` | **Security Tool** |
 
 ---
 
@@ -129,6 +152,22 @@
 
 ---
 
-⭐ **From [Harshit7623](https://github.com/Harshit7623)** | *Made with ❤️ and lots of ☕*
+### 📊 This Week's Coding Stats
+<!--START_SECTION:waka-->
+```text
+Python       ████████████░░░░░░░░░   51.2%
+JavaScript   ██████████░░░░░░░░░░░   46.7%
+TypeScript   █████░░░░░░░░░░░░░░░░   20.0%
+CSS          █░░░░░░░░░░░░░░░░░░░░    5.0%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+
+**220+ contributions this year** | **Pull Shark x2** 🦈 | **Quickdraw** ⚡
+
+⭐ **From [Harshit7623](https://github.com/Harshit7623)** | 📍 Gwalior, India
 
 </div>
