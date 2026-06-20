@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=180&section=header&text=Harshit%20Tiwari&fontSize=52&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20India&descAlignY=58&descSize=16&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Building+production-grade+systems+%F0%9F%9B%A0%EF%B8%8F;AI+Agents+%E2%80%A2+Network+Security+%E2%80%A2+Cloud+Infrastructure;NASA+Space+Apps+2025+%F0%9F%9A%80+%E2%80%A2+GDG+Hackathon+2025+%F0%9F%8F%86;Open+to+collaborate+on+ambitious+projects)](https://github.com/Harshit7623)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Building+production-grade+systems;AI+Agents+%7C+Network+Security+%7C+Cloud+Infrastructure;NASA+Space+Apps+2025+%7C+GDG+Hackathon+2025;Open+to+Collaborate+%7C+Remote-Friendly)](https://github.com/Harshit7623)
 
 <br/>
 
@@ -27,7 +27,7 @@ class HarshitTiwari:
     focus     = ["Backend Architecture", "AI Agents", "DevOps"]
     ships     = ["AccessOps", "SeatWise", "PacketPeeper"]
     competing = ["NASA Space Apps 2025", "GDG Hackathon 2025"]
-    reach_me  = "harshit31250@gmail.com"
+    emails    = {"work": "ht312315@gmail.com", "personal": "harshit31250@gmail.com"}
 ```
 
 - **AccessOps** — AI multi-agent code review on Google Cloud Run
