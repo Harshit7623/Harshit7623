@@ -1,106 +1,114 @@
-# 👋 Hi there, I'm Harshit Tiwari
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=180&section=header&text=Harshit%20Tiwari&fontSize=52&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20India&descAlignY=58&descSize=16&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Building+production-grade+systems+%F0%9F%9B%A0%EF%B8%8F;AI+Agents+%E2%80%A2+Network+Security+%E2%80%A2+Cloud+Infrastructure;NASA+Space+Apps+2025+%F0%9F%9A%80+%E2%80%A2+GDG+Hackathon+2025+%F0%9F%8F%86;Open+to+collaborate+on+ambitious+projects)](https://github.com/Harshit7623)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Harshit7623&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Harshit7623)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Harshit7623?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=1a1a2e)](https://github.com/Harshit7623)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Harshit7623?label=STARS&style=for-the-badge&color=7c3aed&labelColor=1a1a2e)](https://github.com/Harshit7623)
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit7623&layout=compact&hide_progress=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=cdd6f4&hide=html,css,scss&exclude_repo=Galactic_Gallery&langs_count=6" />
+
+### ◈ About Me
+
+```python
+class HarshitTiwari:
+    location  = "Gwalior, India 📍"
+    role      = "Full Stack & Systems Developer"
+    focus     = ["Backend Architecture", "AI Agents", "DevOps"]
+    ships     = ["AccessOps", "SeatWise", "PacketPeeper"]
+    competing = ["NASA Space Apps 2025", "GDG Hackathon 2025"]
+    reach_me  = "harshit31250@gmail.com"
+```
+
+- **AccessOps** — AI multi-agent code review on Google Cloud Run
+- **SeatWise** — 70+ REST APIs powering exam logistics for thousands
+- **PacketPeeper** — Real-time network threat detection at packet level
+- Currently engineering high-throughput systems and scalable backends
+
+<br clear="right"/>
+
+---
+
+## ◈ Tech Stack
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+from+Gwalior+%F0%9F%87%AE%F0%9F%87%B3;NASA+Space+Apps+Challenge+Participant+%F0%9F%9A%80;220%2B+Contributions+This+Year+%F0%9F%94%A5;Python+%7C+TypeScript+%7C+React+%7C+Flask;Building+Real-World+Solutions)](https://github.com/Harshit7623)
+**Languages**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Harshit7623&color=blueviolet&style=flat-square)](https://github.com/Harshit7623)
-[![GitHub followers](https://img.shields.io/github/followers/Harshit7623?label=Follow&style=social)](https://github.com/Harshit7623)
-![GitHub User's stars](https://img.shields.io/github/stars/Harshit7623?style=social)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=flask,nodejs,express,firebase,postgres,sqlite&theme=dark)](https://skillicons.dev)
+
+**Cloud, DevOps & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,gcp,githubactions,git,vercel&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
-
-📍 **Gwalior, India** | 🏆 **Pull Shark x2** | 🚀 **NASA Space Apps 2025** | 🗳️ **GDG Hackathon 2024**
-
-- 🔭 Currently building **[Exam Allocation System](https://github.com/Harshit7623/seat-allocation-sys)** - 28,000+ LOC exam seating system
-- 🌱 Learning **DSA, Backend Development & System Design**
-- 💻 Focused on **Python, Flask, Node.js & Database Design**
-- 🤝 Open to collaborate on **Backend & Full Stack Projects**
-
----
-
-## 📊 GitHub Stats
+## ◈ GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshit7623&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Harshit7623&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=cdd6f4&count_private=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit7623&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=cdd6f4&dates=6b7280" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit7623&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<br/><br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit7623&theme=react-dark&bg_color=0d1117&color=a855f7&line=7c3aed&point=f97316&hide_border=true&area=true&area_color=a855f740" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ◈ Featured Projects
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🔧 Backend & APIs
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### �️ Databases
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Scapy](https://img.shields.io/badge/-Scapy-2C2D72?style=for-the-badge&logo=python&logoColor=white)
+| Project | Description | Stack | Status |
+|:--------|:------------|:------|:------:|
+| [**AccessOps**](https://github.com/Harshit7623/Google_Rapid_Dev) | AI-powered multi-agent code review orchestrator. Triggers on GitLab MRs and coordinates Gemini 2.5 Pro sub-agents for accessibility, security & performance audits. | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python) ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=google-cloud) ![Actions](https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=github-actions) | ![](https://img.shields.io/badge/Cloud_Run-Deployed-7c3aed?style=flat-square) |
+| [**SeatWise**](https://github.com/Harshit7623/seat-allocation-sys) | Algorithm-driven exam seat allocation platform with 70+ REST APIs. Built with a 5-person team to automate large-scale exam logistics. | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react) | ![](https://img.shields.io/badge/28K+_LOC-Production-7c3aed?style=flat-square) |
+| [**PacketPeeper**](https://github.com/Harshit7623/Packet_Peeper) | Real-time, high-throughput network security monitor with live attack detection — port scans, DDoS, brute-force — and a React dashboard for traffic visualization. | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python) ![Scapy](https://img.shields.io/badge/Scapy-0d1117?style=flat-square&logo=python) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react) | ![](https://img.shields.io/badge/Security-Tool-7c3aed?style=flat-square) |
+| [**Galactic Gallery**](https://github.com/Harshit7623/Galactic_Gallery) | NASA Space Apps 2025 — High-performance gigapixel lunar map explorer with seamless deep-zoom and pan. | ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite) | ![](https://img.shields.io/badge/NASA-Challenge-f97316?style=flat-square) |
+| [**Voter Verification**](https://github.com/Harshit7623/Modern_voting_verification) | GDG Hackathon 2025 — Secure voter ID system with OTP flow, Firebase Auth & JWT. | ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js) ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase) ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express) | [![Live](https://img.shields.io/badge/Live-Demo-22c55e?style=flat-square)](https://gdg-hackathon-one.vercel.app) |
 
 </div>
 
 ---
 
-## 📈 Featured Projects
-
-| 🚀 Project | 📝 Description | 🔧 Tech Stack | 📊 Stats |
-|:-----------|:---------------|:--------------|:---------|
-| **[🎓 Exam Allocation](https://github.com/Harshit7623/seat-allocation-sys)** | Intelligent exam seating system with smart algorithms ensuring academic integrity. Features JWT auth, PDF generation & real-time visualization | `Python` `Flask` `React` `SQLite` | **28K+ LOC** |
-| **[🌌 Galactic Gallery](https://github.com/Harshit7623/Galactic_Gallery)** | NASA Space Apps 2025 - High-performance app for exploring gigapixel lunar maps with seamless zoom/pan | `TypeScript` `React` `Vite` `TailwindCSS` | **NASA Challenge** |
-| **[🗳️ Voter Verification](https://github.com/Harshit7623/Modern_voting_verification)** | GDG Hackathon 2024 - Secure voter ID verification with OTP, Firebase Auth & JWT | `JavaScript` `Node.js` `Firebase` `Express` | **[Live Demo](https://gdg-hackathon-one.vercel.app)** |
-| **[🔍 PacketPeeper](https://github.com/Harshit7623/Packet_Peeper)** | Real-time network packet sniffer with protocol analysis, WebSocket updates & React dashboard | `Python` `Flask` `React` `Scapy` `Socket.IO` | **Security Tool** |
-
----
-
-## 🤝 Let's Connect!
+## ◈ Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit31250@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-tiwari-3139b5328/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit7623)
+[![Personal Email](https://img.shields.io/badge/Personal-harshit31250%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:harshit31250@gmail.com)
+&nbsp;
+[![Work Email](https://img.shields.io/badge/Work-ht312315%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:ht312315@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit_Tiwari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/harshit-tiwari-3139b5328/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Harshit7623-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Harshit7623)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
----
-
-**220+ contributions this year** • **Pull Shark x2** 🦈 • **Quickdraw** ⚡
-
-⭐ **[Harshit7623](https://github.com/Harshit7623)** • 📍 Gwalior, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer&fontSize=14&fontColor=6b7280&desc=220%2B+Contributions+%E2%80%A2+NASA+Space+Apps+2025+%E2%80%A2+GDG+Hackathon+2025&descAlignY=65&descSize=13" />
 
 </div>
